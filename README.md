@@ -1,4 +1,14 @@
-### Hi there 👋
+# Øyvind Brakstad's Profile
+🔭 I’m currently working on a new system for Cemit Digital. We are developing smart solutions for railways.
+
+🌱 I’m currently learning about DevOps technology and methods for faster and more secure application development.
+
+💬 Ask me about anything. I love to meet people with interests in the digital space. Whether it is about data analysis, DB techniques, web deployment methods, ... what ever.
+
+📫 How to reach me: 
+ LinkedIn: https://www.linkedin.com/in/%C3%B8yvind-brakstad-5b4061159/
+ And here.
+
 
 <!--
 **Brakistad/BraKistad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
