@@ -5,10 +5,10 @@
 
 I’m currently working on a new system for Cemit Digital. We are developing smart solutions for railways.</br>
 This system includes:</br>
-  💙 <b style='color:#80c0f2'>high volume data transfers</b></br>
-  💙 <b style='color:#80c0f2'>efficient data storage with high accesability</b></br>
-  💙 <b style='color:#80c0f2'>machine vision</b></br> 
-  💛 <i style='color:gold'>all integrated into a elegant network of webservices</i></br>
+  💙 <b style='color:#80c0f2'>High volume data transfers</b></br>
+  💙 <b style='color:#80c0f2'>Efficient data storage with high accessibility</b></br>
+  💙 <b style='color:#80c0f2'>Machine Vision</b></br> 
+  💛 <i style='color:gold'>All integrated into a elegant network of webservices</i></br>
   💜 <i style='color:#ac93ff'>Automatically tested and deployed like clockwork</i></br>
 
 I’m learning about DevOps technology and methods for faster and more secure application development.</br>
