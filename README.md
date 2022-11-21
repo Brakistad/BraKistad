@@ -7,7 +7,7 @@ This system includes:</br>
   💙 <b style='color:#80c0f2'>efficient data storage with high accesability</b></br>
   💙 <b style='color:#80c0f2'>machine vision</b></br> 
   💛 <i style='color:gold'>all integrated into a elegant network of webservices</i></br>
-  💜 <i style='color:gold'>Automatically tested and deployed like clockwork</i></br>
+  💜 <i style='color:#ac93ff'>Automatically tested and deployed like clockwork</i></br>
 
 I’m learning about DevOps technology and methods for faster and more secure application development.</br>
 
