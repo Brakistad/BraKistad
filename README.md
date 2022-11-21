@@ -17,6 +17,7 @@ Ask me about anything.</br> I love to meet people with interests in the digital 
 
 How to reach me: 
  - [LinkedIn](https://www.linkedin.com/in/%C3%B8yvind-brakstad-5b4061159/)
+ - [Homepage](https://brakistad.github.io/homepage/)
  - And here
 
 
