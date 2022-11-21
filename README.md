@@ -1,6 +1,8 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
 ![BraKistad](title.svg)
 <b style='color:gold'>I want to and do create value in the digital space.</b></br>
+
+
 I’m currently working on a new system for Cemit Digital. We are developing smart solutions for railways.</br>
 This system includes:</br>
   💙 <b style='color:#80c0f2'>high volume data transfers</b></br>
