@@ -3,15 +3,9 @@
 <b style='color:gold'>I want to and do create value in the digital space.</b></br>
 
 
-I’m currently working on a new system for Cemit Digital. We are developing smart solutions for railways.</br>
-This system includes:</br>
-  💙 <b style='color:#80c0f2'>High volume data transfers</b></br>
-  💙 <b style='color:#80c0f2'>Efficient data storage with high accessibility</b></br>
-  💙 <b style='color:#80c0f2'>Machine Vision</b></br> 
-  💛 <i style='color:gold'>All integrated into a elegant network of webservices</i></br>
-  💜 <i style='color:#ac93ff'>Automatically tested and deployed like clockwork</i></br>
+I am currently working on large scale enterprise CloudOps solutions.</br>
 
-I’m learning about DevOps technology and methods for faster and more secure application development.</br>
+I’m learning about smart customer-driven product development.</br>
 
 Ask me about anything.</br> I love to meet people with interests in the digital space.</br>
 
