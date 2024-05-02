@@ -5,7 +5,7 @@
 
 I am currently working on large scale enterprise CloudOps solutions.</br>
 
-I’m learning about smart customer-driven product development.</br>
+I’m learning about smart **customer**-driven product development.</br>
 
 Ask me about anything.</br> I love to meet people with interests in the digital space.</br>
 
