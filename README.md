@@ -36,7 +36,7 @@
 
 <details>
   <summary>
-          Show mind...
+          Show source...
   </summary>
 
 ```bash
