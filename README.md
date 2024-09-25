@@ -1,5 +1,9 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
 ![BraKistad](title.svg)
+<div align="center">
+    <img src="https://img.shields.io/badge/Open%20Source%20Stats-blueviolet?style=for-the-badge&logo=github" alt="Open Source Stats" />
+</div>
+
 <div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
     <div> 
         <img 
@@ -14,6 +18,7 @@
         />
     </div>
 </div>
+
 
 
 <b style='color:gold'>I want to and do create value in the digital space.</b></br>
