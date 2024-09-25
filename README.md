@@ -9,13 +9,13 @@ I’m learning about product development, bringing quality of life to customers.
 
 Ask me about anything.</br> I love to meet people with interests in the digital space.</br>
 
-I have a passion for big and information rich data and visualization.
+I enjoy big and information rich data and visualization.
 
 <div align="center"> 
-      <img 
-         width="350px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakistad&count_weight=0.5&size_weight&theme=radical&langs_count=9"
-      />
+    <img 
+        width="350px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakistad&layout=compact&count_weight=0.5&size_weight=0.5&langs_count=9&theme=radical"
+    />
 </div>
 <div align="center">
       <img 
