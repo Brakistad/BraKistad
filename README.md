@@ -1,5 +1,6 @@
 <!-- contents of title.svg is from github.com/aeneasr/aeneasr -->
 ![BraKistad](title.svg)
+
 <div align="center">
     <img src="https://img.shields.io/badge/Open%20Source%20Stats-blueviolet?style=for-the-badge&logo=github" alt="Open Source Stats" />
 </div>
@@ -19,15 +20,34 @@
     </div>
 </div>
 
+<div align="center">
+    
+⚡ **Creating value in the digital space** ⚡
+    
+🚀 **Working on large-scale enterprise CloudOps solutions**
+    
+🎯 **Learning about product development, bringing quality of life to customers**
+    
+💬 **Ask me about anything. I love to meet people with interests in the digital space**
+    
+📊 **Passionate about big data and visualizations**
+    
+</div>
 
+<details>
+  <summary>
+          Show mind...
+  </summary>
 
-<b style='color:gold'>I want to and do create value in the digital space.</b></br>
+```bash
+cd ~/mind/core/values/
+conn_str=$(grep "conn_str" config.env | cut -d '=' -f2)
+if [ -z "$conn_str" ]; then
+  echo "No VALUES, RUN!"
+else
+  psql "$conn_str" -c "SELECT * FROM shared_values ORDER BY created_at DESC LIMIT 5;"
+fi
+```
 
+</details>
 
-I am currently working on large scale enterprise CloudOps solutions.</br>
-
-I’m learning about product development, bringing quality of life to customers.</br>
-
-Ask me about anything.</br> I love to meet people with interests in the digital space.</br>
-
-I enjoy big and information rich data and visualization.
